@@ -1,0 +1,56 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color:coral ;
+}
+
+header {
+    background-color: darkgray;
+    text-align: center;
+}
+
+footer {
+    background-color: darkgray;
+    text-align: right;
+}
+
+h1,h2,h3,h4 {
+    color: darkred;
+}
+
+.firstParagraphofMain{
+    font-size: 30px;
+    color: darkblue;
+    background-color: lime;
+    text-align: center;
+
+}
+
+table, td, tr, th {
+    border: 1px solid black;   
+
+}
+
+th {
+    background-color:blue;
+    color: white   ;
+}
+
+.imageDogAndCat {
+    height: 100px;
+   
+}
+
+.myCountryFlag {
+    height: 150px;
+   
+}
+
+.imageAnimalsAndFlags {
+    text-align: center;
+}
+
+.sectionHistory {
+    text-align: center;
+    font-size: 40px;
+    font-family: cursive;
+}
